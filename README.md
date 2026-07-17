@@ -1,103 +1,87 @@
-<div align="center">
+<h1 align="center">Hi, I'm Haseeb 👋</h1>
+<h3 align="center">aspiring_penetration_tester // offensive security · OSINT · threat intel</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D12,50:10241C,100:00FF9C&height=200&section=header&text=kaid0x&fontSize=68&fontColor=00FF9C&fontAlignY=36&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=560&lines=I+break+things+to+understand+how+they+hold+together.;Year+13+%40+The+Westminster+School%2C+Dubai;Offensive+Security+%C2%B7+OSINT+%C2%B7+Threat+Intel;Open+to+internships+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=building+CTF+infra+one+docker-compose+at+a+time;top+35%25+on+TryHackMe+·+18+rooms+in;probably+breaking+something+on+purpose+right+now" alt="Typing SVG" />
+<p align="center">
+  <a href="https://mhaseebashfaq.com"><img src="https://img.shields.io/badge/Portfolio-mhaseebashfaq.com-0A0D12?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haseeb-ashfaq-504595317"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/kaid0x"><img src="https://img.shields.io/badge/TryHackMe-Top%2035%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+</p>
 
-<a href="https://mhaseebashfaq.com"><img src="https://img.shields.io/badge/PORTFOLIO-mhaseebashfaq.com-0A0D12?style=flat-square&logo=firefox&logoColor=00FF9C&labelColor=000000" /></a>
-<a href="https://www.linkedin.com/in/haseeb-ashfaq-504595317"><img src="https://img.shields.io/badge/LINKEDIN-haseeb--ashfaq-0A0D12?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=000000" /></a>
-<a href="https://tryhackme.com/p/kaid0x"><img src="https://img.shields.io/badge/TRYHACKME-kaid0x-0A0D12?style=flat-square&logo=tryhackme&logoColor=00FF9C&labelColor=000000" /></a>
-<a href="mailto:haseebashfaq207@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hi-0A0D12?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=000000" /></a>
+---
 
-</div>
+### 🕵️ About Me
 
-<br>
+- 🎓 Year 13 student at **The Westminster School, Dubai**, working through the **BTEC IT Level 3 National Diploma** (distinctions)
+- 🔐 Self-directed cybersecurity student aiming to become a **penetration tester**
+- 🧠 Completed a **Cambridge research paper** on AI-powered surveillance & privacy
+- 🛠️ Co-built my school's first **CTF/Hackathon** (WSH'26) — designed the challenges *and* the infrastructure
+- 📡 Into **OSINT**, **MITRE ATT&CK**, and picking apart APT campaigns
+- 📜 Currently prepping for **CompTIA Network+**
+- 📍 Based in Dubai, UAE
 
-I'm Haseeb — Year 13 in Dubai, spending most of my free time breaking web apps in CTFs and then figuring out how I'd have stopped myself. Everything in here is stuff I actually built to learn something: a whole hackathon's infra, a homelab I keep redesigning, some deliberately vulnerable apps.
+> If you can't find it, build it — then break it.
 
-Right now I'm working through TryHackMe's SOC Level 1 and Junior Pen Tester paths, and studying for CompTIA Network+ on the side.
+---
 
-```yaml
-role: student, aspiring pentester
-based_in: Dubai, UAE
-interests: [web exploitation, OSINT, threat intel, MITRE ATT&CK]
-currently: SOC L1 + Jr Pen Tester paths on THM
-open_to: internships, CTF teams
-```
+### 🧰 Tooling & Skills
 
-<br>
+**Offensive Security**
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
+![Ghidra](https://img.shields.io/badge/-Ghidra-6E4C13?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
 
-### what I've been building
+**Code & Dev**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**[WSH-write-ups](https://github.com/kaid0x/WSH-write-ups)** — I co-ran my school's first CTF and wrote the challenges myself: 30+ of them across web, crypto, reverse engineering, forensics, stego, and OSINT. This repo is the full write-up set.
+**Infra & Deployment**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square)
 
-**[CTFd-deployment-on-GCP-with-Docker](https://github.com/kaid0x/CTFd-deployment-on-GCP-with-Docker)** — the infrastructure that actually ran that CTF. CTFd behind Nginx, MariaDB and Redis, all Dockerized on GCP with a locked-down VPC.
+**Threat Intel**
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-D6202A?style=flat-square)
+![OSINT](https://img.shields.io/badge/-OSINT-2F2F2F?style=flat-square)
 
-**[CTF-Web-Exploitation-Challenges](https://github.com/kaid0x/CTF-Web-Exploitation-Challenges)** — the web category from the same event. Intentionally broken Flask apps built around directory enumeration and broken access control.
+---
 
-**[raspberry-pi-homelab](https://github.com/kaid0x/raspberry-pi-homelab)** — a Pi 3B running Pi-hole + Unbound as a DNS sinkhole, Tailscale for remote access with no port forwarding, and full write-ups on what I tried, what broke, and why I changed it.
+### 🗂️ Featured Projects
 
-**[gesture-control](https://github.com/kaid0x/gesture-control)** — the odd one out. Control your Mac's volume and music with hand gestures over webcam, with a HUD overlay.
+| Project | Description |
+|---|---|
+| 🏴 [**WSH'26 — Westminster Hackathon & CTF**](https://github.com/kaid0x/WSH-write-ups) | Co-organized my school's first intraschool CTF for 30+ participants — 30+ custom challenges across 7 categories, official write-ups included |
+| ☁️ [**CTFd Deployment on GCP with Docker**](https://github.com/kaid0x/CTFd-deployment-on-GCP-with-Docker) | Production CTF infra for WSH'26 — CTFd on GCP behind a hardened VPC, Dockerized with Nginx, MariaDB & Redis |
+| 🕸️ [**CTF Web Exploitation Challenges**](https://github.com/kaid0x/CTF-Web-Exploitation-Challenges) | Intentionally vulnerable Flask apps built for WSH'26 — covering directory enumeration & broken access control (OWASP #1) |
+| 🖐️ [**Gesture Control**](https://github.com/kaid0x/gesture-control) | Control your Mac's volume and music with hand gestures via webcam — Jarvis-style HUD |
+| 🏠 [**Raspberry Pi Security Homelab**](https://github.com/kaid0x/raspberry-pi-homelab) | Security-focused homelab on a Pi 3B — Pi-hole + Unbound DNS sinkhole, Tailscale mesh VPN, hardened SSH, documented decision trail |
 
-<br>
+---
 
-### toolbox
+### 📊 Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaid0x&show_icons=true&theme=dark&hide_border=true&bg_color=0A0D12" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kaid0x&theme=dark&hide_border=true&background=0A0D12" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-0A0D12?style=for-the-badge&logo=python&logoColor=00FF9C)
-![Flask](https://img.shields.io/badge/-Flask-0A0D12?style=for-the-badge&logo=flask&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/-Docker-0A0D12?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-0A0D12?style=for-the-badge&logo=googlecloud&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/-Linux-0A0D12?style=for-the-badge&logo=linux&logoColor=00FF9C)
-![Nginx](https://img.shields.io/badge/-Nginx-0A0D12?style=for-the-badge&logo=nginx&logoColor=00FF9C)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0A0D12?style=for-the-badge&logo=wireshark&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/-Git-0A0D12?style=for-the-badge&logo=git&logoColor=00FF9C)
+---
 
-*plus Burp Suite, Ghidra, Nmap, and MITRE ATT&CK mapping for the parts that don't have logos.*
+### 📬 Get in Touch
 
-</div>
+Open to internships, CTF teams, and anyone working in offensive security or threat intel.
 
-<br>
-
-### this year, in numbers
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><h2>30+</h2>CTF challenges<br>designed & built</td>
-<td align="center" width="25%"><h2>18</h2>TryHackMe rooms<br>completed</td>
-<td align="center" width="25%"><h2>top 35%</h2>global rank<br>on TryHackMe</td>
-<td align="center" width="25%"><h2>1</h2>hackathon<br>run end-to-end</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaid0x&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=00FF9C&icon_color=00FF9C&text_color=6BFFCB&ring_color=00FF9C" height="165" />
-<img src="https://streak-stats.demolab.com?user=kaid0x&hide_border=true&background=0A0D12&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=6BFFCB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6BFFCB" height="165" />
-
-<sub>these track *public* GitHub activity, so they'll fill in as more of what I do lands here</sub>
-
-</div>
-
-<br>
-
-### reach me
-
-Open to internships, CTF teams, and anyone working in offensive security or threat intel — email or LinkedIn are fastest.
-
-<div align="center">
-
-<a href="mailto:haseebashfaq207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/haseeb-ashfaq-504595317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mhaseebashfaq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:10241C,100:0A0D12&height=110&section=footer" width="100%"/>
+<p align="center">
+  <a href="mailto:haseebashfaq207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haseeb-ashfaq-504595317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mhaseebashfaq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
