@@ -67,10 +67,11 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaid0x&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kaid0x&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kaid0x&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
