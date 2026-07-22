@@ -15,7 +15,7 @@
 
 ### 🕵️ About Me
 
-- 🎓 Year 13 student at **The Westminster School, Dubai**, working through the **BTEC IT Level 3 National Diploma** (distinctions)
+- 🎓 Year 13 student at **GEMS Education**, working through the **BTEC IT Level 3 National Diploma** (distinctions)
 - 🔐 Self-directed cybersecurity student aiming to become a **penetration tester**
 - 🧠 Completed a **Cambridge research paper** on AI-powered surveillance & privacy
 - 🛠️ Co-built my school's first **CTF/Hackathon** (WSH'26) — designed the challenges *and* the infrastructure
