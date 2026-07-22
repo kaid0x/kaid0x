@@ -2,7 +2,7 @@
 <h3 align="center">aspiring_penetration_tester // offensive security · OSINT · threat intel</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=560&lines=I+break+things+to+understand+how+they+hold+together.;Year+13+%40+The+Westminster+School%2C+Dubai;Offensive+Security+%C2%B7+OSINT+%C2%B7+Threat+Intel;Open+to+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=560&lines=If+you+can't+find+it+,+build+it+-+then+break+it.;Year+13+%40+The+Westminster+School%2C+Dubai;Offensive+Security+%C2%B7+OSINT+%C2%B7+Threat+Intel;Open+to+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
