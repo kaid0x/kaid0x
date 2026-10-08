@@ -88,6 +88,8 @@ I break things to understand how they hold together. My core is **offensive secu
 
 | Project | Description |
 |---|---|
+| 🎬 [**prompt-to-motion**](https://github.com/kaid0x/prompt-to-motion) | Describe a video in plain English, get a narrated, word-synced 3D motion-graphics MP4 rendered from code. Open source, with a Claude skill, local TTS, word alignment and a three.js renderer |
+| 📡 [**SentryFeed**](https://github.com/kaid0x/sentryfeed) | Self-hosted threat-intel dashboard on a Raspberry Pi: security news with CVE lookups, CISA KEV exploitation flags, duplicate-story merging and a strict CSP |
 | 🏴 [**WSH'26 · Westminster Hackathon & CTF**](https://github.com/kaid0x/WSH-write-ups) | Co-organized my school's first intraschool CTF for 30+ participants. 30+ custom challenges across 7 categories, official write-ups included |
 | ☁️ [**CTFd Deployment on GCP with Docker**](https://github.com/kaid0x/CTFd-deployment-on-GCP-with-Docker) | Production CTF infra for WSH'26: CTFd on GCP behind a hardened VPC with firewall rules, Dockerized with Nginx, MariaDB & Redis |
 | 🕸️ [**CTF Web Exploitation Challenges**](https://github.com/kaid0x/CTF-Web-Exploitation-Challenges) | Intentionally vulnerable Flask apps built for WSH'26, covering directory enumeration & broken access control (OWASP #1) |
