@@ -18,7 +18,7 @@
 
 I break things to understand how they hold together. My core is **offensive security** (web and network pentesting, OSINT, threat intel), and **AI** is the layer I'm building on top: both a system I'm learning to test, and a tool I'm learning to test with.
 
-- 🎓 Year 13 at **The Westminster School, Dubai** (GEMS Education) · **BTEC IT Level 3 National Diploma**, distinctions across the board
+- 🎓 Year 13 at GEMS Education · **BTEC IT Level 3 National Diploma**, distinctions across the board
 - 🧠 Wrote a **Cambridge International Project (CIPQ)** research paper on AI-powered surveillance & privacy, graded **A\***
 - 🏴 Co-organized my school's first **CTF/Hackathon** (WSH'26) and built all 30+ challenges *and* the cloud infrastructure
 - 🤖 Moving into **AI security & AI pentesting**: LLM attack surface, prompt injection, jailbreaks
